@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Daniel👋
+
+
+I'm a FullStack Software developer in Java/Spring and VueJs
 
 <!--
 **adanielc/adanielc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
