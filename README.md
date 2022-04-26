@@ -6,6 +6,9 @@ I'm a Full-Stack Software developer in Java/Spring and Vue JS.
 
 - 🔭 I’m currently working on Java/Spring Boot & Vue JS
 - 🌱 I’m currently learning Swift with SwiftUI and Apache Kafka
+- 👯 I’m looking to collaborate on Game Jams with Unity3D
+
+
 
 <br>
 <br>
