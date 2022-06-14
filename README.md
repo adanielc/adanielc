@@ -20,7 +20,7 @@ I'm a Full-Stack Software developer in Java/Spring and Vue JS.
 -----------------------------------------------------------
 
 <details>
- <summary>Languajes</summary>
+ <summary>Languages</summary>
  <ul>
   <li>Java</li>
   <li>JavaScript</li>
