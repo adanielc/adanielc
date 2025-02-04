@@ -5,17 +5,11 @@
 I'm a Full-Stack Software developer in Java/Spring and Vue JS. 
 
 - 🔭 I’m currently working on Java/Spring Boot & Vue JS
-- 🌱 I’m currently learning Swift with SwiftUI and Apache Kafka
-- 👯 I’m looking to collaborate on Game Jams with Unity3D
-
+- 🌱 I’m currently learning Swift with SwiftUI
 
 
 <br>
 <br>
-<p align="center">
- <a href="https://twitter.com/andresdaniel_"><img src="https://img.shields.io/twitter/follow/andresdaniel_" alt="Twitter"></a>
- <a href="https://www.linkedin.com/in/andrés-castillo-bermúdez-24440aab/"><img src="https://img.shields.io/badge/-122-_? label=LinkedIn&style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
 
 -----------------------------------------------------------
 
