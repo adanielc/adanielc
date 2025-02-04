@@ -2,9 +2,9 @@
 
 -----------------------------------------------------------
 
-I'm a Full-Stack Software developer in Java/Spring and Vue JS. 
+I'm a Full-Stack Software developer in Java/Spring and Vue.js. 
 
-- 🔭 I’m currently working on Java/Spring Boot & Vue JS
+- 🔭 I’m currently working on Java/Spring Boot & Vue.js
 - 🌱 I’m currently learning Swift with SwiftUI
 
 
